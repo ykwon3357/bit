@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Refer_java_Lib/lib/json-20180813.jar"/>
+	<classpathentry kind="lib" path="E:/h2/bin/h2-1.4.200.jar"/>
+	<classpathentry kind="lib" path="E:/Refer_java_Lib/lib/my_jdbcUtil.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
