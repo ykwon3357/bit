@@ -1,0 +1,35 @@
+{
+  "members": [
+    {
+      "no": 1,
+      "phone": "010-1111-1111",
+      "name": "홍길동",
+      "email": "hong@a.com"
+    },
+    {
+      "no": 2,
+      "phone": "010-6666-6666",
+      "name": "김백합",
+      "email": "lily@a.com"
+    },
+    {
+      "no": 3,
+      "phone": "010-5555-5555",
+      "name": "성춘향",
+      "email": "sung@a.com"
+    },
+    {
+      "no": 4,
+      "phone": "010-4444-4444",
+      "name": "이몽룡",
+      "email": "lee@a.com"
+    },
+    {
+      "no": 5,
+      "phone": "010-2222-2222",
+      "name": "김길동",
+      "email": "kim@a.com"
+    }
+  ],
+  "seq": 6
+}
